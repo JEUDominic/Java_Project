@@ -6,8 +6,9 @@
 
 #Requirement:
 
-[project.pdf](project.pdf)
-[project.jar](project.jar)
+[project.pdf](project.pdf) are some requirements,
+
+[project.zip](project.zip) could be used after download.
 
 
 ---
