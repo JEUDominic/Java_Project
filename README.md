@@ -8,7 +8,7 @@
 
 [project.pdf](project.pdf) are some requirements,
 
-[project.zip](project.zip) could be used after download.
+Download the files in 06.
 
 
 ---
